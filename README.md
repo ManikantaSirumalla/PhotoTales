@@ -64,6 +64,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-If you have any questions or need assistance, feel free to contact us at [your_email@example.com](mailto:manikanta.sirumalla@outlook.com).
+If you have any questions or need assistance, feel free to contact us at (mailto:manikanta.sirumalla@outlook.com).
 
 Happy coding with PhotoTales! 📸✨
