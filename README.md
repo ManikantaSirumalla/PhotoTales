@@ -2,7 +2,7 @@
 **PhotoTales** is an iOS application that combines the power of Combine framework with the Model-View-ViewModel (MVVM) architecture to fetch pictures and provide their descriptions based on user search queries. With PhotoTales, users can explore a wide array of images and their accompanying information, making it a great tool for a range of applications.
 
 ## Features
-
+![Screenshot 2023-10-15 at 11 38 19 PM](https://github.com/ManikantaSirumalla/PhotoTales/assets/87671172/27e022ed-4874-4999-bbb3-5703575ce186)
 - **Image Search**: Users can search for pictures using keywords.
 - <img width="1255" alt="Screenshot 2023-10-16 at 1 20 37 AM" src="https://github.com/ManikantaSirumalla/PhotoTales/assets/87671172/59fc294b-ec27-40d1-a20e-672a86436395">
 - **Description Retrieval**: PhotoTales provides descriptions related to the searched images.
